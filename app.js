@@ -29,4 +29,4 @@ let moto={...car};
 moto.color="green";
 moto.speed="200";
 console.log(moto);
-console.log("3");
+
